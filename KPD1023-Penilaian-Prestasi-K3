@@ -1,1 +1,14 @@
-
+<html>
+  <head>
+    <title>Biodata Saya</title>
+  </head>
+  
+  <body>
+    <center>
+      
+      <table width="75%" border="2">
+        <tr>
+          <th width="20%"><img src="images/kvpjb.png" width="100%" ></th>
+          <th><i><font size="50">Biodata Saya</font><i></th>
+        </tr>
+      </table>                         
